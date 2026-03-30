@@ -14,3 +14,6 @@ This repository contains my HW1 submission exploring how generative AI can impro
 1. `6d50770` Repository setup — created repo structure with README.md, assistant_draft.md, and final_version.md
 2. `fce0991` Assistant-created draft — added AI-generated content to assistant_draft.md and final_version.md
 3. Updated README with repo description, Git steps, and commit log
+
+## Video Link
+https://youtu.be/obMUPDMknoE 
